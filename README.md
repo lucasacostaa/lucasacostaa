@@ -4,7 +4,7 @@
 
 📫 How to reach me: https://www.linkedin.com/in/lucasuracosta/
 
-## Take a look at my projects :arrow_down:
+## Take a look at my recent projects :arrow_down:
 
 <!---
 lucasacostaa/lucasacostaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
