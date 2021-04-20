@@ -1,4 +1,4 @@
-# Hello! :wave: I'm Lucas
+# Hello! I'm Lucas :wave:
 
 🌱 I’m currently learning React Native and I absolutely **love it**.
 
