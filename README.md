@@ -1,6 +1,6 @@
 # Hello! I'm Lucas :wave:
 
-🌱 I’m currently learning React Native and I absolutely **love it**.
+🌱 I’m currently learning React/React Native and I absolutely **love it**.
 
 📫 How to reach me: https://www.linkedin.com/in/lucasuracosta/
 
