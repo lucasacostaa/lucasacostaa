@@ -1,4 +1,4 @@
-# Hello! :wave: I'm Lucas, welcome to my profile.
+# Hello! :wave: I'm Lucas
 
 🌱 I’m currently learning React Native and I absolutely **love it**.
 
