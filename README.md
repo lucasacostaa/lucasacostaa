@@ -1,4 +1,4 @@
-![Lucas Acosta's banner](https://github.com/lucasacostaa/lucasacostaa/raw/main/assets/header-banner.png)
+![Lucas Acosta's banner](https://github.com/lucasacostaa/lucasacostaa/raw/main/assets/header-banner-2.png)
 
 # Hello! I'm Lucas :wave:
 
