@@ -1,4 +1,4 @@
-<h1 align="center"> Hello! I'm Lucas :wave: <h1>
+<p align="center"> <h1 align="center">Hello! I'm Lucas :wave: </h1><p>
 
 ![Lucas Acosta's banner](https://github.com/lucasacostaa/lucasacostaa/raw/main/assets/header-banner-4.png)
 
