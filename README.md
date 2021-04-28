@@ -24,11 +24,9 @@
   <img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white"/>
     <img src="https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=white"/>
 
-  
   </a>
 </p>
 ⠀</h2>
-⠀
 <h3 align="center">Contact me at ⬇️</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/lucasuracosta/" target="_blank"><img target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
