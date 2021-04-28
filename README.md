@@ -1,8 +1,9 @@
-<p align="center"> <h1 align="center">Hello! I'm Lucas :wave: </h1><p>
+<p align="center"> <h1 align="center">Hello! I'm Lucas :wave: 
+<img src="https://github.com/lucasacostaa/lucasacostaa/raw/main/assets/header-banner-4.png"/>
+</h1><p>
 
-![Lucas Acosta's banner](https://github.com/lucasacostaa/lucasacostaa/raw/main/assets/header-banner-4.png)
 
-<h2 align="center">Tools </h2>
+<h2 align="center" border-bottom:"none">Tools 
 <p align="center">
   <a href="#">
   <img src="https://img.shields.io/badge/JavaScript-596275?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -22,7 +23,7 @@
   
   </a>
 </p>
-⠀
+⠀</h2>
 ⠀
 <h3 align="center">Contact me at ⬇️</h3>
 <p align="center">
