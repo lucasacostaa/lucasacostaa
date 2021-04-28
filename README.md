@@ -27,7 +27,7 @@
   </a>
 </p>
 ⠀</h2>
-<h3 align="center">Contact me at ⬇️</h3>
+<h2 align="center" style="border-bottom:none">Contact me at ⬇️</h2>
 ⠀
 <p align="center">
   <a href="https://www.linkedin.com/in/lucasuracosta/" target="_blank"><img target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
