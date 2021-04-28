@@ -1,6 +1,6 @@
-![Lucas Acosta's banner](https://github.com/lucasacostaa/lucasacostaa/raw/main/assets/header-banner-4.png)⠀
-
 # Hello! I'm Lucas :wave: #
+
+![Lucas Acosta's banner](https://github.com/lucasacostaa/lucasacostaa/raw/main/assets/header-banner-4.png)⠀
 
 🌱 I’m currently learning React/React Native and I absolutely **love it**.
 
