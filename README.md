@@ -27,7 +27,7 @@
   </a>
 </p>
 ⠀</h2>
-<h2 align="center" style="border-bottom:none">Contact me at ⬇️</h2>
+<h2 align="center" style="border-bottom:none">Contact me at ⬇️
 ⠀
 <p align="center">
   <a href="https://www.linkedin.com/in/lucasuracosta/" target="_blank"><img target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   
 </p>
-
+</h2>
 <!---
 lucasacostaa/lucasacostaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
