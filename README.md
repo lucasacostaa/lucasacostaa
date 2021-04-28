@@ -1,6 +1,8 @@
-<p align="center"> <h1 align="center">Hello! I'm Lucas :wave: 
+<p align="center"> <h1 align="center">Hello! I'm Lucas :wave:</h1>
+<h2>
 <img src="https://github.com/lucasacostaa/lucasacostaa/raw/main/assets/header-banner-4.png"/>
-</h1><p>
+</h2>
+<p>
 
 
 <h2 align="center" border-bottom:"none">Tools 
